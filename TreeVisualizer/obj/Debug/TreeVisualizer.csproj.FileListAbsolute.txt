@@ -1,0 +1,11 @@
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe.config
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.pdb
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.AssemblyReference.cache
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.MainWindow.resources
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.Properties.Resources.resources
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.exe
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.pdb
+C:\Users\Maxim\source\repos\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.NumberForm.resources
